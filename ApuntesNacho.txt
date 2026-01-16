@@ -1,0 +1,35 @@
+Nacho
+
+md es txt
+
+las preguntas del final pueden ser examen
+
+examen teoria wordpress
+
+examen finales de este mes, sencillo. para luego hacer solo wordpress. examen cms y wordpress teorico sencillo. examen 30. teoria, apps webs, pdf teoria del libro (dropbox) y git; test. video si tenemos dudas. Hoja del chat nos deja tenerla abierta en examen.
+
+en la carpeta del shh hay que crear un documento de configuracion, con algunos parametros (config)
+
+Otros:
+
+Hacer comando que sale en el repositorio. Convertimos el local en el remoto una vez (lo subimos)
+
+nos sale la pestaña y nos lo sube
+
+*gitignore
+
+para descargar: lo podemos hacer con un git fetch o un git pull
+
+para subir es git push
+
+pull request en nacho dev smr fork
+
+readme nombre
+
+apuntes, apuntesdiego
+`
+que no sea sourcetree
+
+para el clonado en la herramienta no usar ssh
+
+
